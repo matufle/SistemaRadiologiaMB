@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SistemaRadiologiaMB.App.UI/SistemaRadiologiaMB.App.UI.csproj" />
+    <Project Path="src/SistemaRadiologiaMB.Application/SistemaRadiologiaMB.Application.csproj" />
+    <Project Path="src/SistemaRadiologiaMB.Domain/SistemaRadiologiaMB.Domain.csproj" />
+    <Project Path="src/SistemaRadiologiaMB.Infrastructure.Cloud/SistemaRadiologiaMB.Infrastructure.Cloud.csproj" />
+    <Project Path="src/SistemaRadiologiaMB.Infrastructure.Local/SistemaRadiologiaMB.Infrastructure.Local.csproj" />
+    <Project Path="src/SistemaRadiologiaMB.WebApi/SistemaRadiologiaMB.WebApi.csproj" />
+  </Folder>
+</Solution>
